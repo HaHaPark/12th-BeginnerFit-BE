@@ -5,7 +5,7 @@
 # [👟BiginnerFit]
 健康管理のために運動を始めたいが、ヘルス/管理/運動などに無知な人のために自分に合うホームトレーニング映像推薦/運動種目推薦してくれるサービス 🏃
 
-## スキル
+## 主要機能
 ### 🎯ユーザーに合わせた運動 おすすめ
 <img src="https://github.com/user-attachments/assets/6b1e5801-bed5-4e9b-83e6-c2f097c2cea2" width=400 />
 
